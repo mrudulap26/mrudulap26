@@ -6,7 +6,6 @@ I'm a passionate Software Developer and an AI enthusiast.
 
 I enjoy creating innovative solutions that make a difference in the tech world.
 
-![](https://hit.yhype.me/github/profile?user_id=149927701)
 
 
 
@@ -64,3 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=149927701)
