@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Mrudula!
 
-Welcome to my GitHub profile! I'm a passionate Software Developer and an AI enthusiast. I enjoy creating innovative solutions that make a difference in the tech world.
+Welcome to my GitHub profile! 
+I'm a passionate Software Developer and an AI enthusiast. 
+I enjoy creating innovative solutions that make a difference in the tech world.
 
 ## 🔧 Skills
 - **Languages**: Python, C, C++, JavaScript, HTML, CSS, Java
@@ -19,7 +21,7 @@ Feel free to ask me anything related to:
 - Full Stack Development
 
 ## 📫 How to Reach Me
-You can reach me at mrudu267@gmail.com (mailto:mrudu267@gmail.com).
+You can reach me at mrudu267@gmail.com
 
 ## ⚡ Fun Fact
 <!--I have a knack for injecting humor into any situation – I like to think I'm pretty funny!-->
