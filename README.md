@@ -6,6 +6,8 @@ I'm a passionate Software Developer and an AI enthusiast.
 
 I enjoy creating innovative solutions that make a difference in the tech world.
 
+![Static Badge](https://img.shields.io/badge/!%5B%5D(https%3A%2F%2Fhit.yhype.me%2Fgithub%2Fprofile%3Fuser_id%3D149927701)?style=plastic&logoSize=auto&labelColor=blue)
+
 
 
 
