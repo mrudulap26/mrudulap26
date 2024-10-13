@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)
+<!--![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)-->
 ![PROFILE VIEWS](https://hit.yhype.me/github/profile?user_id=149927701&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=true&base=100)
 
 ![](https://hit.yhype.me/github/profile?user_id=149927701&color=blue&style=plastic&&label=PROFILE+VIEWS&abbreviated=truebase=100)
