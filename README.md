@@ -6,6 +6,9 @@ I'm a passionate Software Developer and an AI enthusiast.
 
 I enjoy creating innovative solutions that make a difference in the tech world.
 
+![Static Badge](https://img.shields.io/badge/Profile%20Views-%20123?style=plastic&logoSize=auto&labelColor=blue)
+
+
 
 ## 🔧 Skills
 - **Languages**: Python, C, C++, JavaScript, HTML, CSS, Java
