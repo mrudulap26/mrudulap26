@@ -41,7 +41,7 @@ Here are some of my notable projects:
 <!--## 🌍 Fun Facts
 - [Share a fun fact or two about yourself or your interests outside of tech]-->
 
-Thanks for stopping by! I'm always open to collaboration and new opportunities, so feel free to reach out!
+##Thanks for stopping by! I'm always open to collaboration and new opportunities, so feel free to reach out!
 
 <!--
 **mrudulap26/mrudulap26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
