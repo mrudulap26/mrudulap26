@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mrudula!
 
 Welcome to my GitHub profile! 
-I'm a passionate Software Developer and an AI enthusiast. ![image](https://github.com/user-attachments/assets/d813e3d8-ad32-4baa-8634-66730a11ba5d)
+I'm a passionate Software Developer and an AI enthusiast.
 I enjoy creating innovative solutions that make a difference in the tech world.
 
 
