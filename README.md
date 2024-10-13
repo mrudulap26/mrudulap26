@@ -7,8 +7,6 @@ I'm a passionate Software Developer and an AI enthusiast.
 I enjoy creating innovative solutions that make a difference in the tech world.
 
 
-![Static Badge](https://img.shields.io/badge/Profile%20Views-123?style=plastic&logoSize=auto)
-
 
 
 ## 🔧 Skills
@@ -65,4 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://hit.yhype.me/github/profile?user_id=149927701)
+![](https://hit.yhype.me/github/profile?user_id=149927701&color=blue&style=plastic&&label=PROFILE+VIEWS&abbreviated=truebase=100)
